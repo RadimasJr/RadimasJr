@@ -1,5 +1,5 @@
 ### Hi there 👋
-# <p align=center> Hi, I'm Radimas <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
+# <p align=center> Hi, I'm Radimas 
 
  <p align=center>
  <a href="mailto:radhimasjanuar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
