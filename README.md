@@ -8,8 +8,8 @@
 ## Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-   - 🔭 I'm currently working on several independent projects. </br>
-   - 🌱 I’m currently learning SQL. </br>
+   - 🔭 I'm currently working on virtual internship projects. </br>
+   - 🌱 I’m currently learning SQL & Python. </br>
 </details>
     <p align=center>
   <a href="#" title="Stats">
