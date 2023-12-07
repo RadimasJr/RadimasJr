@@ -1,5 +1,9 @@
 ### Hi there 👋
-# <p align=center> Hi, I'm Radimas 
+- 👋 Hi, I’m @RadimasJr
+- 👀 I’m interested in Data Science/Data Analytics
+- 🌱 I’m currently learning to increase my proficiency in Python, SQL, Tableau
+- 🔭 I'm currently working on Virtual Internship Project
+- 📫 How to reach me radhimasjanuar@gmail.com
 
  <p align=center>
  <a href="mailto:radhimasjanuar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
@@ -7,9 +11,7 @@
 
 ## Stats:
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-   - 🔭 I'm currently working on virtual internship projects. </br>
-   - 🌱 I’m currently learning SQL & Python. </br>
+
 </details>
     <p align=center>
   <a href="#" title="Stats">
