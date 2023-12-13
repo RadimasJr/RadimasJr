@@ -7,14 +7,6 @@
 
  <p align=center>
  <a href="mailto:radhimasjanuar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
- <html>
-<body>
-  <div class='LI-profile-badge' data-version='v1' data-size='medium' data-locale='en_US' data-type='horizontal' data-theme='dark' data-vanity='cyan051'>
-    <a class='LI-simple-link' href='https://in.linkedin.com/in/cyan051?trk=profile-badge'>Vladimir Mandic</a>
-  </div>
-  <script type='text/javascript' src='https://platform.linkedin.com/badges/js/profile.js' async defer></script>
-</body>  
-</html>
 </p>
 
 ## Stats:
