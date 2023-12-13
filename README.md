@@ -8,7 +8,11 @@
  <p align=center>
  <a href="mailto:radhimasjanuar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
 </p>
-
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/radimas-januar"
+ </a>
 ## Stats:
 <details>
 
