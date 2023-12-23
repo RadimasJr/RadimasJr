@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m @RadimasJr
 - 👀 I’m interested in Data Science/Data Analytics
-- 🌱 I’m currently learning to increase my proficiency in Python, SQL, Tableau
+- 🌱 I’m currently learning to increase my proficiency in Python, SQL, Looker Studio
 - 🔭 I'm currently working on Virtual Internship Project
 - 📫 How to reach me radhimasjanuar@gmail.com
 
