@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @RadimasJr
 - 👀 I’m interested in Data Analytics/Data Science
 - 🌱 I’m currently learning to increase my proficiency in Python, SQL, Looker Studio
-- 🔭 I'm currently working on Virtual Internship Project
+- 🔭 I'm currently looking for full time work in Data Analytics
 - 📫 How to reach me radhimasjanuar@gmail.com
 
  <p align=center>
