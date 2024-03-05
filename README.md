@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @RadimasJr
 - 👀 I’m interested in Data Analytics/Data Science
 - 🌱 I’m currently learning to increase my proficiency in Python, SQL, Looker Studio
-- 🔭 I'm currently looking for full time position in Junior/ Entry level Data Analytics
+- 🔭 I'm currently looking for position in Junior/ Entry level Data Analytics
 - 📫 How to reach me radhimasjanuar@gmail.com
 
  <p align=center>
