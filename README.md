@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m @RadimasJr
 - 👀 I’m interested in the Analytics role
-- 🌱 I’m currently learning to increase my proficiency in Python, SQL, Looker Studio/Power BI
+- 🌱 Currently learning to increase my proficiency in Python, SQL, Looker Studio/Power BI
 - 📫 How to reach me radhimasjanuar@gmail.com
 
  <p align=center>
